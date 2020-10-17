@@ -8,8 +8,8 @@ This repository is summary of the [Epic React lecture](https://epicreact.dev/) b
 
   - [x] Welcome to Epic React
   - [x] Project READMEs and Pre Reqs
-  - [ ] Clone and Setup
-  - [ ] Running the Epic React Workshop App
+  - [x] Clone and Setup
+  - [x] Running the Epic React Workshop App
   - [ ] File Structure
   - [ ] Running Tests
   - [ ] Example Runthrough
